@@ -19,3 +19,10 @@
     * Regex matching dates in YYYY-MM-DD format:
 
     /\d{1,4}-\d{1,2}-\d{1,2}/g
+
+-----------------------------
+
+1. State Machine
+    * VT-100 Regex
+
+        /\e\[(1m)?(\d{1,2};\d{1,2}f)?/gi
