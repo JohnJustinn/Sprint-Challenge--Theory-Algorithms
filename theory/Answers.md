@@ -8,3 +8,9 @@
     
     /antelopes?\srocks?\sout/g
 
+2. Regular Expressions: Goats and Moats and Boats
+
+    * Regex matching either 'goat' or 'moat' but not' boat':
+
+    /[gm]oat/g
+    
