@@ -13,4 +13,9 @@
     * Regex matching either 'goat' or 'moat' but not' boat':
 
     /[gm]oat/g
-    
+
+3. Regular Expressions: Dates
+
+    * Regex matching dates in YYYY-MM-DD format:
+
+    /\d{1,4}-\d{1,2}-\d{1,2}/g
